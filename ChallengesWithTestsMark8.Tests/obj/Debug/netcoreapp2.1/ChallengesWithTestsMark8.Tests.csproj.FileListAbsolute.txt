@@ -93,7 +93,6 @@ C:\Users\FrankDaTank\source\repos\CarlbertCannon\WeeklyChallenges\ChallengesWith
 C:\Users\FrankDaTank\source\repos\CarlbertCannon\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\netcoreapp2.1\ChallengesWithTestsMark8.Tests.pdb
 C:\Users\FrankDaTank\source\repos\CarlbertCannon\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\netcoreapp2.1\ChallengesWithTestsMark8.dll
 C:\Users\FrankDaTank\source\repos\CarlbertCannon\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\netcoreapp2.1\ChallengesWithTestsMark8.pdb
-C:\Users\FrankDaTank\source\repos\CarlbertCannon\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.Tests.csprojAssemblyReference.cache
 C:\Users\FrankDaTank\source\repos\CarlbertCannon\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.Tests.AssemblyInfoInputs.cache
 C:\Users\FrankDaTank\source\repos\CarlbertCannon\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.Tests.AssemblyInfo.cs
 C:\Users\FrankDaTank\source\repos\CarlbertCannon\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.Tests.csproj.CoreCompileInputs.cache
@@ -101,3 +100,7 @@ C:\Users\FrankDaTank\source\repos\CarlbertCannon\WeeklyChallenges\ChallengesWith
 C:\Users\FrankDaTank\source\repos\CarlbertCannon\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.Tests.dll
 C:\Users\FrankDaTank\source\repos\CarlbertCannon\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.Tests.pdb
 C:\Users\FrankDaTank\source\repos\CarlbertCannon\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.Tests.genruntimeconfig.cache
+C:\Users\FrankDaTank\source\repos\CarlbertCannon\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\netcoreapp2.1\ChallengesWithTestsMark8.deps.json
+C:\Users\FrankDaTank\source\repos\CarlbertCannon\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\netcoreapp2.1\ChallengesWithTestsMark8.runtimeconfig.json
+C:\Users\FrankDaTank\source\repos\CarlbertCannon\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\netcoreapp2.1\ChallengesWithTestsMark8.runtimeconfig.dev.json
+C:\Users\FrankDaTank\source\repos\CarlbertCannon\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.Tests.csproj.AssemblyReference.cache
